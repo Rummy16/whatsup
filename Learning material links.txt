@@ -5,3 +5,7 @@ IAM--> https://cloud.google.com/iam/docs?hl=en_US&_ga=2.20752952.-1620301717.164
 Google cloud APIs--> https://cloud.google.com/apis/docs/overview?hl=en_US&_ga=2.20752952.-1620301717.1645519152
 
 Hide last seen
+
+Adding audio call feature
+
+Adding video call feature
